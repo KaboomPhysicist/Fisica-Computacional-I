@@ -5,7 +5,7 @@ Las clases son teórico-prácticas.
 - Computational Methods in Physics. Sirca, Simon.
 - Introduction to Numerical Programming
 - Algorithms and Computation. Werner.
-- 
+
 
 ## Parciales
 
