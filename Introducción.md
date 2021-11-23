@@ -11,4 +11,9 @@ Las clases son teórico-prácticas.
 
 Son 3 parciales cada uno de 25%. Seguimiento: 25%.
 
-El seguimiento son tareas que se entregan en comprimidos .zip. La intención es trabajar en Collaboratory. 
+El seguimiento son tareas que se entregan en comprimidos .zip. La intención es trabajar en Collaboratory. El seguimiento se hace semanalmente: se deja una tarea cada semana para ir entregando.
+
+
+- Primer parcial: Ecuaciones diferenciales ordinarias. Enero 18
+- Segundo parcial: Febrero 22
+- Tercer parcial: Marzo 31
