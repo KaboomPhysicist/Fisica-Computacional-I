@@ -2,6 +2,13 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 def rk4(f, inicio, tiempo, h):
+    """
+    f: función de la derivada
+    inicio: array, tupla o lista con las condiciones iniciales. El primer elemento corresponde
+    al tiempo inicial.
+    tiempo: float, tiempo final
+    h: paso
+    """
     T = np.arange(inicio[0], tiempo, h)
     Y = np.zeros(len(T))
     Y[0] = inicio[1]
