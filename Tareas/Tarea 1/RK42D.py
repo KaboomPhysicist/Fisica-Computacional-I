@@ -2,12 +2,21 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 def RK42D(f, u0, tiempo, h):
+    """
+    f: función de segundo orden a integrar
+    u0: tupla, array o lista. u0[0] Tiempo inicial, u0[1:] Condiciones iniciales
+    tiempo: tiempo final
+    h: paso de integración
+    """
 
     T = np.arange(u0[0], tiempo, h)
+    # Declara un array con 2 columnas, una para cada orden de derivación
     U = np.zeros((len(T),2))
 
+    # Primera fila con condiciones iniciales
     U[0] = u0[1:]
 
+    # Aplica RK4 con caracter vectorial
     for i in range(len(T)-1):
         k1 = f(T[i],U[i])
         k2 = f(T[i], U[i] + h*k1/2)
