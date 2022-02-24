@@ -1,0 +1,12 @@
+﻿%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+   Formato artículo Revista Bistua
+          Plantilla en Latex
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Al usar la plantilla de formato para artículos de la revista tenga en cuenta lo siguiente:
+
+1. En las lineas de formato del documento solo modifique los espacios necesarios (correspondientes a título, nombre de los autores y sus afiliaciones). 
+- Las instrucciones que dan formato al documento como lo son el tamaño de texto, el espaciado entre secciones entre otras, mantegalas   como establece la plantilla. 
+ 
+2. Para la bibliografía es posible gestionarla manualmente usando el entorno thebibliography,
+como se muestra en el ejemplo, o usando bibtex, bibilatex o natbib. Recuerde que en cualquiera los dos casos las referencias deben tener un tamaño de 8pt, por tanto deben ubicarse dentro del tamaño de texto provisto por latex denominado \footnotesize.

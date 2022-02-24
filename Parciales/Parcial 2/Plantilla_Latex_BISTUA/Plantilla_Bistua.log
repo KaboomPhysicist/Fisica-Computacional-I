@@ -1,0 +1,758 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.3.7)  14 FEB 2022 13:38
+entering extended mode
+**./Plantilla_Bistua.tex
+(Plantilla_Bistua.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18> xparse <2020-03-03>
+(C:\Users\Jorge Rueda\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(C:\Users\Jorge Rueda\AppData\Local\Programs\MiKTeX\tex/latex/base\fleqn.clo
+File: fleqn.clo 2016/12/29 v1.2b Standard LaTeX option (flush left equations)
+\mathindent=\skip47
+Applying: [2015/01/01] Make \[ robust on input line 50.
+LaTeX Info: Redefining \[ on input line 51.
+Already applied: [0000/00/00] Make \[ robust on input line 62.
+Applying: [2015/01/01] Make \] robust on input line 74.
+LaTeX Info: Redefining \] on input line 75.
+Already applied: [0000/00/00] Make \] robust on input line 83.
+)
+(C:\Users\Jorge Rueda\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count179
+\c@section=\count180
+\c@subsection=\count181
+\c@subsubsection=\count182
+\c@paragraph=\count183
+\c@subparagraph=\count184
+\c@figure=\count185
+\c@table=\count186
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen138
+)
+(C:\Users\Jorge Rueda\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+)
+(C:\Users\Jorge Rueda\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.
+sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\Users\Jorge Rueda\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts
+.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks17
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(C:\Users\Jorge Rueda\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry
+.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\Jorge Rueda\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.s
+ty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+)
+(C:\Users\Jorge Rueda\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.st
+y
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\Jorge Rueda\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count187
+\Gm@cntv=\count188
+\c@Gm@tempcnt=\count189
+\Gm@bindingoffset=\dimen139
+\Gm@wd@mp=\dimen140
+\Gm@odd@mp=\dimen141
+\Gm@even@mp=\dimen142
+\Gm@layoutwidth=\dimen143
+\Gm@layoutheight=\dimen144
+\Gm@layouthoffset=\dimen145
+\Gm@layoutvoffset=\dimen146
+\Gm@dimlist=\toks19
+
+(C:\Users\Jorge Rueda\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry
+.cfg))
+(C:\Users\Jorge Rueda\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.st
+y
+Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
+
+(C:\Users\Jorge Rueda\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\colo
+r.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+
+(C:\Users\Jorge Rueda\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdft
+ex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+(C:\Users\Jorge Rueda\AppData\Local\Programs\MiKTeX\tex/latex/latex-tools\multi
+col.sty
+Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
+\c@tracingmulticols=\count190
+
+
+Package multicol Warning: May not work with the twocolumn option on input line 
+141.
+
+\mult@box=\box47
+\multicol@leftmargin=\dimen147
+\c@unbalance=\count191
+\c@collectmore=\count192
+\doublecol@number=\count193
+\multicoltolerance=\count194
+\multicolpretolerance=\count195
+\full@width=\dimen148
+\page@free=\dimen149
+\premulticols=\dimen150
+\postmulticols=\dimen151
+\multicolsep=\skip50
+\multicolbaselineskip=\skip51
+\partial@page=\box48
+\last@line=\box49
+\maxbalancingoverflow=\dimen152
+\mult@rightbox=\box50
+\mult@grightbox=\box51
+\mult@gfirstbox=\box52
+\mult@firstbox=\box53
+\@tempa=\box54
+\@tempa=\box55
+\@tempa=\box56
+\@tempa=\box57
+\@tempa=\box58
+\@tempa=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\c@minrows=\count196
+\c@columnbadness=\count197
+\c@finalcolumnbadness=\count198
+\last@try=\dimen153
+\multicolovershoot=\dimen154
+\multicolundershoot=\dimen155
+\mult@nat@firstbox=\box91
+\colbreak@box=\box92
+\mc@col@check@num=\count199
+)
+(C:\Users\Jorge Rueda\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\times.sty
+Package: times 2020/03/25 PSNFSS-v9.3 (SPQR) 
+) (C:\Users\Jorge Rueda\AppData\Local\Programs\MiKTeX\tex/latex/here\here.sty)
+(C:\Users\Jorge Rueda\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count266
+\float@exts=\toks20
+\float@box=\box93
+\@float@everytoks=\toks21
+\@floatcapt=\box94
+)
+(C:\Users\Jorge Rueda\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2021/01/26 3.53 The Babel package
+
+(C:\Users\Jorge Rueda\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.def
+File: babel.def 2021/01/26 3.53 Babel common definitions
+\babel@savecnt=\count267
+\U@D=\dimen156
+\l@babelnohyphens=\language79
+
+(C:\Users\Jorge Rueda\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.
+def)
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count268
+
+*************************************
+* Local config file bblopts.cfg used
+*
+
+(C:\Users\Jorge Rueda\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\Jorge Rueda\AppData\Local\Programs\MiKTeX\tex/latex/babel-spanish\spa
+nish.ldf
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+\es@quottoks=\toks22
+\es@quotdepth=\count269
+Package babel Info: Making " an active character on input line 561.
+Package babel Info: Making . an active character on input line 662.
+Package babel Info: Making < an active character on input line 707.
+Package babel Info: Making > an active character on input line 707.
+))
+(C:\Users\Jorge Rueda\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.s
+ty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(C:\Users\Jorge Rueda\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.
+sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen157
+\captionmargin@=\dimen158
+\captionwidth=\dimen159
+\caption@tempdima=\dimen160
+\caption@indent=\dimen161
+\caption@parindent=\dimen162
+\caption@hangindent=\dimen163
+Package caption Info: Standard document class detected.
+)
+Package caption Info: Option `figurename' requires the `newfloat' package on in
+put line 187.
+
+(C:\Users\Jorge Rueda\AppData\Local\Programs\MiKTeX\tex/latex/newfloat\newfloat
+.sty
+Package: newfloat 2019/09/02 v1.1l Defining new floating environments (AR)
+)
+\c@caption@flags=\count270
+\c@continuedfloat=\count271
+Package caption Info: float package is loaded.
+)
+(C:\Users\Jorge Rueda\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microty
+pe.sty
+Package: microtype 2021/02/25 v2.8b Micro-typographical refinements (RS)
+\MT@toks=\toks23
+\MT@count=\count272
+LaTeX Info: Redefining \textls on input line 788.
+\MT@outer@kern=\dimen164
+LaTeX Info: Redefining \textmicrotypecontext on input line 1358.
+\MT@listname@count=\count273
+
+(C:\Users\Jorge Rueda\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microty
+pe-pdftex.def
+File: microtype-pdftex.def 2021/02/25 v2.8b Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 915.
+LaTeX Info: Redefining \lslig on input line 915.
+\MT@outer@space=\skip52
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(C:\Users\Jorge Rueda\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microty
+pe.cfg
+File: microtype.cfg 2021/02/25 v2.8b microtype main configuration file (RS)
+))
+(C:\Users\Jorge Rueda\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.s
+ty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip53
+
+For additional information on amsmath, use the `?' option.
+
+(C:\Users\Jorge Rueda\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.s
+ty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(C:\Users\Jorge Rueda\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.st
+y
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks24
+\ex@=\dimen165
+))
+(C:\Users\Jorge Rueda\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.st
+y
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen166
+)
+(C:\Users\Jorge Rueda\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.st
+y
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count274
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count275
+\leftroot@=\count276
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count277
+\DOTSCASE@=\count278
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box95
+\strutbox@=\box96
+\big@size=\dimen167
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count279
+\c@MaxMatrixCols=\count280
+\dotsspace@=\muskip16
+\c@parentequation=\count281
+\dspbrk@lvl=\count282
+\tag@help=\toks25
+\row@=\count283
+\column@=\count284
+\maxfields@=\count285
+\andhelp@=\toks26
+\eqnshift@=\dimen168
+\alignsep@=\dimen169
+\tagshift@=\dimen170
+\tagwidth@=\dimen171
+\totwidth@=\dimen172
+\lineht@=\dimen173
+\@envbody=\toks27
+\multlinegap=\skip54
+\multlinetaggap=\skip55
+\mathdisplay@stack=\toks28
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+(C:\Users\Jorge Rueda\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks29
+\thm@bodyfont=\toks30
+\thm@headfont=\toks31
+\thm@notefont=\toks32
+\thm@headpunct=\toks33
+\thm@preskip=\skip56
+\thm@postskip=\skip57
+\thm@headsep=\skip58
+\dth@everypar=\toks34
+)
+(C:\Users\Jorge Rueda\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(C:\Users\Jorge Rueda\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\colo
+r.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+LaTeX Info: Redefining \color on input line 709.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+
+(C:\Users\Jorge Rueda\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\svgnam.def
+File: svgnam.def 2016/05/11 v2.12 Predefined colors according to SVG 1.1 (UK)
+))
+(C:\Users\Jorge Rueda\AppData\Local\Programs\MiKTeX\tex/latex/base\fix-cm.sty
+Package: fix-cm 2015/01/14 v1.1t fixes to LaTeX
+
+(C:\Users\Jorge Rueda\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
+))
+(C:\Users\Jorge Rueda\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx
+.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Jorge Rueda\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics
+.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Jorge Rueda\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\Jorge Rueda\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\grap
+hics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+)
+\Gin@req@height=\dimen174
+\Gin@req@width=\dimen175
+)
+(C:\Users\Jorge Rueda\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow
+.sty
+Package: multirow 2021/01/29 v2.7 Span multiple rows of a table
+\multirow@colwidth=\skip59
+\multirow@cntb=\count286
+\multirow@dima=\skip60
+\bigstrutjot=\dimen176
+)
+(C:\Users\Jorge Rueda\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec
+.sty
+Package: titlesec 2019/10/16 v2.13 Sectioning titles
+\ttl@box=\box97
+\beforetitleunit=\skip61
+\aftertitleunit=\skip62
+\ttl@plus=\dimen177
+\ttl@minus=\dimen178
+\ttl@toksa=\toks35
+\titlewidth=\dimen179
+\titlewidthlast=\dimen180
+\titlewidthfirst=\dimen181
+)
+(C:\Users\Jorge Rueda\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace
+.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(C:\Users\Jorge Rueda\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr
+.sty
+Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
+rs
+\f@nch@headwidth=\skip63
+\f@nch@O@elh=\skip64
+\f@nch@O@erh=\skip65
+\f@nch@O@olh=\skip66
+\f@nch@O@orh=\skip67
+\f@nch@O@elf=\skip68
+\f@nch@O@erf=\skip69
+\f@nch@O@olf=\skip70
+\f@nch@O@orf=\skip71
+)
+! Too many }'s.
+l.79 					}
+           
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+(C:\Users\Jorge Rueda\AppData\Local\Programs\MiKTeX\tex/latex/titling\titling.s
+ty
+Package: titling 2009/09/04 v2.1d maketitle typesetting
+\thanksmarkwidth=\skip72
+\thanksmargin=\skip73
+\droptitle=\skip74
+)
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 1
+46.
+
+(C:\Users\Jorge Rueda\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+(C:\Users\Jorge Rueda\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backe
+nd-pdftex.def
+File: l3backend-pdftex.def 2021-02-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count287
+\l__pdf_internal_box=\box98
+) (Plantilla_Bistua.aux
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+)
+\openout1 = `Plantilla_Bistua.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 146.
+LaTeX Font Info:    ... okay on input line 146.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 146.
+LaTeX Font Info:    ... okay on input line 146.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 146.
+LaTeX Font Info:    ... okay on input line 146.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 146.
+LaTeX Font Info:    ... okay on input line 146.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 146.
+LaTeX Font Info:    ... okay on input line 146.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 146.
+LaTeX Font Info:    ... okay on input line 146.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 146.
+LaTeX Font Info:    ... okay on input line 146.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(48.08522pt, 518.12456pt, 48.08522pt)
+* v-part:(T,H,B)=(62.59596pt, 669.77806pt, 62.59596pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=518.12456pt
+* \textheight=669.77806pt
+* \oddsidemargin=-24.18477pt
+* \evensidemargin=-24.18477pt
+* \topmargin=-35.90039pt
+* \headheight=12.0pt
+* \headsep=14.22636pt
+* \topskip=10.0pt
+* \footskip=14.22636pt
+* \marginparwidth=48.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumntrue
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+(C:\Users\Jorge Rueda\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-
+pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count288
+\scratchdimen=\dimen182
+\scratchbox=\box99
+\nofMPsegments=\count289
+\nofMParguments=\count290
+\everyMPshowfont=\toks36
+\MPscratchCnt=\count291
+\MPscratchDim=\dimen183
+\MPnumerator=\count292
+\makeMPintoPDFobject=\count293
+\everyMPtoPDFconversion=\toks37
+)
+(C:\Users\Jorge Rueda\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epst
+opdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+LaTeX Info: Redefining \. on input line 146.
+LaTeX Info: Redefining \% on input line 146.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+Package newfloat Info: `float' package detected.
+LaTeX Info: Redefining \microtypecontext on input line 146.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `alltext-nott'.
+LaTeX Info: Redefining \showhyphens on input line 146.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+
+(C:\Users\Jorge Rueda\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-ptm.
+cfg
+File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
+)
+(C:\Users\Jorge Rueda\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.
+cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 185
+.
+
+(C:\Users\Jorge Rueda\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+(C:\Users\Jorge Rueda\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msa.
+cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 185
+.
+
+(C:\Users\Jorge Rueda\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+(C:\Users\Jorge Rueda\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msb.
+cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+Overfull \hbox (0.9532pt too wide) in paragraph at lines 185--185
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--193
+
+ []
+
+
+Underfull \vbox (badness 3514) has occurred while \output is active []
+
+
+
+Package xcolor Warning: Incompatible color definition on input line 200.
+
+<Encabezadoarticulo_2.png, id=1, 1270.87564pt x 234.49309pt>
+File: Encabezadoarticulo_2.png Graphic file (type png)
+<use Encabezadoarticulo_2.png>
+Package pdftex.def Info: Encabezadoarticulo_2.png  used on input line 200.
+(pdftex.def)             Requested size: 498.2076pt x 91.92781pt.
+
+Package xcolor Warning: Incompatible color definition on input line 200.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.0pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
+
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.200 \subsubsection{Nota técnica}
+                                   
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 2
+00.
+(C:\Users\Jorge Rueda\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+
+Package xcolor Warning: Incompatible color definition on input line 200.
+
+<cc_bistua_grande.png, id=3, 154.32657pt x 58.71938pt>
+File: cc_bistua_grande.png Graphic file (type png)
+<use cc_bistua_grande.png>
+Package pdftex.def Info: cc_bistua_grande.png  used on input line 200.
+(pdftex.def)             Requested size: 46.29831pt x 17.61594pt.
+[1{C:/Users/Jorge Rueda/AppData/Local/MiKTeX/pdftex/config/pdftex.map}
+
+
+ <./Encabezadoarticulo_2.png> <./cc_bistua_grande.png>]
+<GraficaEjemplo.png, id=15, 170.4915pt x 159.3225pt>
+File: GraficaEjemplo.png Graphic file (type png)
+<use GraficaEjemplo.png>
+Package pdftex.def Info: GraficaEjemplo.png  used on input line 215.
+(pdftex.def)             Requested size: 131.45158pt x 122.844pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.237  - & - & - &
+                   \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.238 - & - & - &
+                  \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.239 - & - & - &
+                  \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+
+Package xcolor Warning: Incompatible color definition on input line 255.
+
+
+Package xcolor Warning: Incompatible color definition on input line 255.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 18.64996pt, for example:
+(fancyhdr)                \setlength{\headheight}{18.64996pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-6.64996pt}.
+
+[2 <./GraficaEjemplo.png>]
+Underfull \hbox (badness 3769) in paragraph at lines 273--274
+[]\OT1/ptm/m/n/8 (+20) Restrepo G., Los ele-men-tos qu[]mi-cos, su ma-tem[]ati
+-ca y re-la-ci[]on
+ []
+
+
+Underfull \hbox (badness 2762) in paragraph at lines 273--274
+\OT1/ptm/m/n/8 (+20) con el sis-te-ma pe-ri[]odi-co. BIS-TUA Rev. FCB 2(1) (200
+4) 91-98.
+ []
+
+
+Underfull \hbox (badness 1194) in paragraph at lines 274--275
+[]\OT1/ptm/m/n/8 (+20) Salazar A., Rue-da J.E., Study of energy coupling in a B
+i12SiO20
+ []
+
+
+Underfull \hbox (badness 7963) in paragraph at lines 274--275
+\OT1/ptm/m/n/8 (+20) pho-to-re-fac-ti-ve ma-te-rial, BIS-TUA Rev. FCB 2(1) (200
+4) 47-53.
+ []
+
+
+Package xcolor Warning: Incompatible color definition on input line 299.
+
+
+Package xcolor Warning: Incompatible color definition on input line 299.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 20.39996pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.39996pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-8.39996pt}.
+
+[3] (Plantilla_Bistua.aux
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+) ) 
+Here is how much of TeX's memory you used:
+ 9165 strings out of 479334
+ 144118 string characters out of 2854197
+ 507196 words of memory out of 3000000
+ 26173 multiletter control sequences out of 15000+200000
+ 450893 words of font info for 257 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 68i,17n,74p,868b,490s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/Jorge Rueda/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.
+enc}<C:/Users/Jorge Rueda/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
+onts/cm/cmex10.pfb><C:/Users/Jorge Rueda/AppData/Local/Programs/MiKTeX/fonts/ty
+pe1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Jorge Rueda/AppData/Local/Programs/
+MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/Jorge Rueda/AppData/L
+ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Jorge R
+ueda/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:
+/Users/Jorge Rueda/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
+/cmr7.pfb><C:/Users/Jorge Rueda/AppData/Local/Programs/MiKTeX/fonts/type1/publi
+c/amsfonts/cm/cmr8.pfb><C:/Users/Jorge Rueda/AppData/Local/Programs/MiKTeX/font
+s/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Jorge Rueda/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Jorge Rueda/AppData/Local
+/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/Jorge Rueda/AppDat
+a/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Jorge Rueda/
+AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on Plantilla_Bistua.pdf (3 pages, 296871 bytes).
+PDF statistics:
+ 66 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 85008 words of extra memory for PDF output out of 89155 (max. 10000000)
+
