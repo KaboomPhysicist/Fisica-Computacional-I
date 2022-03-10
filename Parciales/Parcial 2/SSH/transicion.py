@@ -15,7 +15,6 @@ def transition(S, L, h):
     for i,j in enumerate(T):
         s, m, x = evolucion(S, L, j, h)
         M[i] = abs(m)
-
     
         
     plt.title("Magnetización en función de la temperatura")
@@ -48,7 +47,8 @@ if __name__ == '__main__':
     font = {'family' : 'Times New Roman',
         'size'   : 20}
 
-    
+     
+  
     matplotlib.rc('font', **font)    
 
     plt.grid()
